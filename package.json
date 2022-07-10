@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "tsc",
+    "build:watch": "tsc --watch",
     "commit": "git-cz",
     "pretty": "prettier --write ./src/**/*.ts"
   },
