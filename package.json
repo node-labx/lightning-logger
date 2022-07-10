@@ -1,0 +1,22 @@
+{
+  "name": "lightning-logger",
+  "version": "1.0.0",
+  "description": "🚀🚀🚀 super fast node.js logger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/node-labx/lightning-logger.git"
+  },
+  "keywords": [
+    "logger"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/node-labx/lightning-logger/issues"
+  },
+  "homepage": "https://github.com/node-labx/lightning-logger#readme"
+}
